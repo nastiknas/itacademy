@@ -1,0 +1,11 @@
+{
+  "name": "lesson05",
+  "version": "1.0.0",
+  "main": "lesson05.js",
+  "scripts": {
+    "zadachi": "node lesson05.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
