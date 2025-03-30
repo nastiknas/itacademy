@@ -21,12 +21,4 @@ describe('Api test', () => {
       await expect(response.data).toBeTruthy();
      })
 
-  test('GET should be able to list of Activities (failed test status code)', async () => {
-    const response = await axios.get('https://fakerestapi.azurewebsites.net/api/v1/Activities')
-    console.log(response)
-    await expect(response.status).toEqual(300);
-    await expect(response.data).toBeTruthy();
-  })
-
-
-    })
+     })
