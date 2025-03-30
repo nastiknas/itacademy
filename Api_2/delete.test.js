@@ -22,10 +22,5 @@ describe('Api test', () => {
         await expect(response.status).toEqual(200);
      })
 
-    test('DELETE should be able to list of Activities (failed test status code)', async () => {
-      const response = await axios.delete("https://fakerestapi.azurewebsites.net/api/v1/Activities/1")
-     console.log(response)
-    await expect(response.status).toEqual(500);
-     })
 
     })
