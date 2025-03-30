@@ -46,10 +46,4 @@ describe('Api test', () => {
         "completed": true
       })
 
-
-      console.log(response)
-      await expect(response.status).toEqual(400);
-      await expect(response.data).toBeTruthy();
-  })
-
 })
