@@ -37,13 +37,4 @@ describe('Api test', () => {
         await expect(response.data).toBeTruthy();
     })
 
-  test('POST should be able to list of Activities (failed test status code)', async () => {
-    const response = await axios.post('https://fakerestapi.azurewebsites.net/api/v1/Activities',
-      {
-        "id": 0,
-        "title": "string",
-        "dueDate": "2025-03-19T20:53:08.691Z",
-        "completed": true
-      })
-
 })
