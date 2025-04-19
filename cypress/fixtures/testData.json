@@ -1,0 +1,29 @@
+{
+    "textBoxData": [
+      {
+        "fullname": "Анастасия Мельникова",
+        "email": "miledynastia@gmail.com",
+        "currentAddress": "г. Гомель, Республика Беларусь",
+        "permanentAddress": "г. Минск, Республика Беларусь"
+      },
+      {
+        "fullname": "Anastasiya Melnikova",
+        "email": "miledynastia@gmail.com",
+        "currentAddress": "Gomel, Belarus",
+        "permanentAddress": "Minsk, Belarus"
+      },
+      {
+        "fullname": "Anastasiya_+-/=-&*%$# Melnikova",
+        "email": "miledynastia@gmail.com",
+        "currentAddress": "Gomel, Belarus _+-/=-&*%$#",
+        "permanentAddress": "Minsk, Belarus _+-/=-&*%$#"
+      },
+      {
+        "fullname": "123456789",
+        "email": "miledynastia123456789@gmail.com",
+        "currentAddress": "Gomel, Belarus 123456789 ",
+        "permanentAddress": "Minsk, Belarus 123456789"
+      }
+    ]
+
+}
