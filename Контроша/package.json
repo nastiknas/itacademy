@@ -1,0 +1,11 @@
+{
+  "name": "kontrosha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "zapusk": "node kontrosha.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
