@@ -1,0 +1,15 @@
+{
+  "name": "firsttouch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "create-folder": "node task.js"
+      },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
+
