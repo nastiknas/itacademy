@@ -1,0 +1,11 @@
+{
+  "name": "lesson08",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "less8": "node lesson08.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
